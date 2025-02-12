@@ -10,13 +10,13 @@ I'm a master's student at CSU East Bay pursuing Computer Science and a passionat
 ## 💼 Projects
 Here are a few of my favorite projects:
 
-- **[Cloud-based Diabetes Prediction using Random Forest Classifier](https://github.com/yourusername/Cloud-based-Diabetes-Prediction-using-Random-Forest-Classifier)**  
+- **[Cloud-based Diabetes Prediction using Random Forest Classifier](https://github.com/Shashank-K-V/Cloud-based-Diabetes-Prediction-using-Random-Forest-Classifier)**  
   A machine learning project that predicts diabetes based on data. Deployed on AWS EC2.
 
-- **[Classical Music Generation using GAN and WaveNet](https://github.com/yourusername/Classical-Music-Generation-Using-GAN-and-WaveNet)**  
+- **[Classical Music Generation using GAN and WaveNet](https://github.com/Shashank-K-V/Classical-Music-Generation-Using-GAN-and-WaveNet)**  
   Combining GAN and WaveNet for AI-generated classical music.
 
-- **[Electronic Store Management System](https://github.com/yourusername/Electronic-Store-Management-System)**  
+- **[Electronic Store Management System](https://github.com/Shashank-K-V/Electronic-Store-Management-System)**  
   A web-based management system for tracking products and sales.
 
 ## 📫 How to Reach Me
