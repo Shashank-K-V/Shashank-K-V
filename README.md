@@ -20,8 +20,8 @@ Here are a few of my favorite projects:
   A web-based management system for tracking products and sales.
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/shashank](https://linkedin.com/in/shashank)
+- Email: kv.shashank012001@gmail.com
+- LinkedIn: [linkedin.com/in/shashank]([https://linkedin.com/in/shashank](https://www.linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/))
 
 
 ---
