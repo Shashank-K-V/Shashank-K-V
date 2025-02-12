@@ -23,8 +23,6 @@ Here are a few of my favorite projects:
 - Email: your.email@example.com
 - LinkedIn: [linkedin.com/in/shashank](https://linkedin.com/in/shashank)
 
-## 👨‍💻 Open-Source Contributions
-I actively contribute to open-source and enjoy collaborating on projects. Feel free to explore my contributions and open issues for collaboration!
 
 ---
 
