@@ -21,7 +21,7 @@ Here are a few of my favorite projects:
 
 ## 📫 How to Reach Me
 - Email: kv.shashank012001@gmail.com
-- LinkedIn: [linkedin.com/in/shashank]([https://linkedin.com/in/shashank](https://www.linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/)
+- LinkedIn: ([https://linkedin.com/in/shashank](https://www.linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/)
 
 
 ---
