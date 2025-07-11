@@ -1,6 +1,6 @@
 # Hi there, I'm Shashank 👋
 
-I'm a master's student at CSU East Bay pursuing Computer Science and a passionate developer with a focus on machine learning, web development, and AI.
+I'm a Computer Science graduate from CSU East Bay and a passionate developer with a focus on machine learning, web development, and AI..
 
 ## 🚀 Skills
 - **Languages**: Python, JavaScript, TypeScript, C++, SQL
