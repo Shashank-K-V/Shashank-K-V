@@ -25,8 +25,8 @@
 ## 💼 Highlighted Projects
 
 ### 🧩 Full-Stack Subscription Tracker
-**Live Demo:** [mysubs-front.vercel.app](#) | **Backend:** Render | **DB:** Neon PostgreSQL  
-
+**Live Demo:** [mysubs-front.vercel.app](https://my-subs-frontend.vercel.app/login) | **Backend:** Render | **DB:** Neon PostgreSQL  
+[🔗 GitHub](https://github.com/Shashank-K-V/my-subscription)  
 A scalable web app that allows users to manage recurring subscriptions.
 
 **Tech Highlights**
@@ -34,7 +34,6 @@ A scalable web app that allows users to manage recurring subscriptions.
 - **Backend:** Flask REST API with PostgreSQL via SQLAlchemy  
 - **Auth:** JWT Tokens (Flask-JWT-Extended)  
 - **CI/CD:** Auto-deploy → Render (backend) + Vercel (frontend)  
-- **Architecture:**
 
 
 **Key Features**
