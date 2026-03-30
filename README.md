@@ -1,89 +1,73 @@
-# 👋 Hi, I'm Shashank Krishnamurthy Vinodh
+# Hi, I'm Shashank Krishnamurthy Vinodh 👋
 
-🎓 **M.S. in Computer Science, CSU East Bay**  
-💡 Passionate about **Machine Learning, Cloud Infrastructure, and Full-Stack Web Development**  
-🚀 I enjoy transforming research ideas into production-ready systems.
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-ML%20%7C%20AI%20%7C%20GenAI%20Engineer-brightgreen?style=flat)
 
----
+**ML Engineer · GenAI · RAG Pipelines · LLMs · PyTorch**
 
-## 🧠 Tech Stack & Skills
-
-**Languages:**  
-`Python`  `JavaScript`  `TypeScript`  `C++`  `SQL`
-
-**Frameworks & Tools:**  
-`React`  `Flask`  `Node.js`  `Express`  `TensorFlow`  `Keras`  `Scikit-Learn`
-
-**Infrastructure:**  
-`Docker`  `Kubernetes`  `AWS`  `Render`  `Vercel`  `Neon (PostgreSQL)`  `NGINX`
-
-**DevOps & Utilities:**  
-`Git`  `GitHub Actions`  `Linux`  `VS Code`  `Postman`
+AI Research Scientist Intern @ RoogenAI · MS Computer Science @ CSU East Bay (GPA 3.97) — I build and research production AI systems at the intersection of LLMs, RAG pipelines, and scalable cloud infrastructure. Currently seeking full-time ML / AI / GenAI Engineer roles on F1 OPT.
 
 ---
 
-## 💼 Highlighted Projects
+## What I Build & Research
 
-### 🧩 Full-Stack Subscription Tracker
-**Live Demo:** [mysubs-front.vercel.app](https://my-subs-frontend.vercel.app/login) | **Backend:** Render | **DB:** Neon PostgreSQL  
-[🔗 GitHub](https://github.com/Shashank-K-V/my-subscription)  
-A scalable web app that allows users to manage recurring subscriptions.
-
-**Tech Highlights**
-- **Frontend:** React + Axios + JWT Authentication  
-- **Backend:** Flask REST API with PostgreSQL via SQLAlchemy  
-- **Auth:** JWT Tokens (Flask-JWT-Extended)  
-- **CI/CD:** Auto-deploy → Render (backend) + Vercel (frontend)  
-
-
-**Key Features**
-- Secure login/signup with JWT  
-- CRUD for subscriptions (create, update, delete, view)  
-- Cloud-deployed microservice architecture  
-- CORS-safe multi-domain integration  
-- REST API tested via Postman & Axios
+- 🔍 Production RAG pipelines with hallucination mitigation and semantic re-ranking
+- 🤖 Local LLM applications with fully on-device inference (zero data exposure)
+- 👁️ Computer vision models from scratch — 3D CNN, BiGRU, CTC, MediaPipe
+- ⚡ Distributed async backend systems deployable to GCP Cloud Run
+- 🧪 Applied LLM research in production environments @ RoogenAI
 
 ---
 
-### ☁️ Cloud-Based Diabetes Prediction using Random Forest
-[🔗 GitHub](https://github.com/Shashank-K-V/Cloud-based-Diabetes-Prediction-using-Random-Forest-Classifier)  
-Predicts diabetes from patient data using Random Forest, deployed on AWS EC2 with Flask API endpoints.
+## Experience
+
+🔬 **AI Research Scientist Intern** @ RoogenAI *(Current)*
 
 ---
 
-### 🎶 Classical Music Generation using GAN + WaveNet
-[🔗 GitHub](https://github.com/Shashank-K-V/Classical-Music-Generation-Using-GAN-and-WaveNet)  
-Combines **Generative Adversarial Networks** and **WaveNet** to synthesize realistic classical compositions.
+## Tech Stack
+
+**LLMs & GenAI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+**MLOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
-### 🛒 Electronic Store Management System
-[🔗 GitHub](https://github.com/Shashank-K-V/Electronic-Store-Management-System)  
-A complete inventory and sales tracking web application built with Flask + SQLite → PostgreSQL.
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [🔍 RAGForge](https://github.com/Shashank-K-V/ragforge) | Production RAG pipeline · LangChain · OpenAI · GCP Cloud Run |
+| [⚖️ Viveka](https://github.com/Shashank-K-V/viveka) | Local AI legal document analyser · Llama 3.1 8B · 100% on-device |
+| [👄 SilentRead](https://github.com/Shashank-K-V/silentread) | Lip reading model from scratch · 3D CNN + BiGRU · 84.5% word accuracy |
+| [⚡ FlowQueue](https://github.com/Shashank-K-V/flowqueue) | Distributed async task queue · FastAPI · Redis · Cloud Run |
 
 ---
 
-## 🧩 Research & Interests
-- Deep Learning for Autonomous Systems  
-- Generative AI for Music and Art  
-- Distributed Model Serving on Cloud  
-- Optimizing Transformer Architectures for Edge Devices  
+## GitHub Stats
+
+![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashank-K-V&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-K-V&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📊 GitHub Stats
+## Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashank-K-V&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-K-V&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email  → [**kv.shashank012001@gmail.com**](mailto:kv.shashank012001@gmail.com)  
-- 💼 LinkedIn → [**linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/**](https://www.linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/)  
-- 🌐 Portfolio → _Coming Soon (React + Three.js + Flask backend)_
-
----
-
-⭐ *Thanks for visiting — explore the repos below to see my end-to-end ML and Full-Stack deployments!*
+[![Email](https://img.shields.io/badge/Email-kv.shashank012001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kv.shashank012001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashank--kv-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kv)
