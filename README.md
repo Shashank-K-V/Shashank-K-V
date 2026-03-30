@@ -63,4 +63,4 @@ AI Research Scientist Intern @ RoogenAI · MS Computer Science @ CSU East Bay (G
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-kv.shashank012001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kv.shashank012001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashank--kv-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashank--kv-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-krishnamurthy-vinodh-856418206/)
