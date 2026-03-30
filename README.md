@@ -60,13 +60,6 @@ AI Research Scientist Intern @ RoogenAI · MS Computer Science @ CSU East Bay (G
 
 ---
 
-## GitHub Stats
-
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shashank-K-V&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-K-V&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-kv.shashank012001@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kv.shashank012001@gmail.com)
