@@ -2,13 +2,13 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-ML%20%7C%20AI%20%7C%20GenAI%20Engineer-brightgreen?style=flat)
 
-**ML Engineer · Applied AI · GenAI Systems · Python Backend**
+**ML Engineer · AI Researcher · Applied AI · GenAI Systems · Python Backend**
 
 I’m an ML / AI engineer based in Fremont, CA, currently building generative AI training and evaluation systems at RooGenAI. I recently completed my M.S. in Computer Science at California State University, East Bay (GPA 3.97).
 
 I build production-grade AI systems end to end — from model experimentation and evaluation to FastAPI services, retrieval pipelines, and cloud deployment. My work sits at the intersection of **LLMs, RAG, deep learning, and scalable backend systems**.
 
-Currently seeking full-time roles in **ML Engineering, Applied AI, GenAI Engineering, and AI-focused Software Engineering**.
+Currently seeking full-time roles in **ML Engineering,AI Researcher, Applied AI, GenAI Engineering, and AI-focused Software Engineering**.
 
 ---
 
