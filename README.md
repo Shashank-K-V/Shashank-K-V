@@ -25,7 +25,6 @@ Currently seeking full-time roles in **ML Engineering, Applied AI, GenAI Enginee
 ## Current Work
 
 ### AI Research — RooGenAI
-I build and benchmark diffusion-model training pipelines, automated evaluation workflows, and reproducible experimentation systems for generative AI workloads. My work includes DDPM/UNet benchmarking, ablation studies, hyperparameter optimization, and model evaluation infrastructure across 20+ variants.
 
 ---
 
