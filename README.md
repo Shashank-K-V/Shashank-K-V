@@ -38,7 +38,7 @@ Includes semantic retrieval, re-ranking, hallucination mitigation, and evaluatio
 100% on-device legal document AI assistant using Llama 3.1 8B with MLX.  
 Built for privacy-first document understanding with structured clause analysis, risk scoring, and zero data sent externally.
 
-### [SilentRead](https://github.com/Shashank-K-V/silentread)
+### [SilentRead / VisioLex ](https://github.com/Shashank-K-V/silentread)
 Lip-reading model built from scratch using 3D CNN + BiGRU + CTC.  
 Trained on 10K video clips with 11.3M parameters, achieving **84.5% word accuracy** without pretrained weights or cloud compute.
 
